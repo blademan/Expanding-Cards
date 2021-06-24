@@ -10,6 +10,7 @@ body {
 .container {
   display: flex;
   width: 90vw;
+  align-items: center;
 }
 .panel {
   background-size: cover;
